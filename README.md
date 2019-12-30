@@ -1,5 +1,7 @@
 # GitHub Actions Bash
 
+[**WEB**](https://tomashubelbauer.github.io/github-actions-bash)
+
 Using `ubuntu-latest` this does not work:
 
 ```sh
